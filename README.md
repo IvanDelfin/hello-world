@@ -35,4 +35,4 @@ Ok, sorry [Click me](https://itisamystery.com/)
 | Header | Title |
 | Paragraph | Text | 
 
-![Me](Thatsme.png)
+![Me](ThatsMe.png)
