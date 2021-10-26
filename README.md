@@ -28,4 +28,11 @@ print("lol XD")
 ```
 [Click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) yo won't regret it
 
-Ok, sorry [Vlick me](https://itisamystery.com/)
+Ok, sorry [Click me](https://itisamystery.com/)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
+![Me](Thatsme.png)
