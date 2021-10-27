@@ -1,5 +1,5 @@
 # hello-world
-# Iván Delfín
+# Iván Delfín 100 - que padre, participas en competencias 
 1. Construcción de Software
 2. Ciudades inteligentes
 
